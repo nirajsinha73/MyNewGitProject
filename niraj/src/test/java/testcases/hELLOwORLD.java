@@ -6,5 +6,6 @@ public class hELLOwORLD {
 		
 		System.out.println("hi");
 		System.out.println("new hi");
+		System.out.println("new hix");
 	}
 }
